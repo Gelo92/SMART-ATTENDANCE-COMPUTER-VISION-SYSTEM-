@@ -1,0 +1,10 @@
+C:\Users\Lungelo\source\repos\Moodle\Moodle\Debug\Moodle.vcxproj.AssemblyReference.cache
+C:\Users\Lungelo\source\repos\Moodle\Moodle\Debug\Moodle.Moodle.resources
+C:\Users\Lungelo\source\repos\Moodle\Moodle\Debug\Moodle.vcxproj.GenerateResource.cache
+E:\C++ Projects 2021\Moodle\Moodle\Debug\Moodle.vcxproj.AssemblyReference.cache
+E:\C++ Projects 2021\Moodle\Moodle\Debug\Moodle.Moodle.resources
+E:\C++ Projects 2021\Moodle\Moodle\Debug\Moodle.vcxproj.GenerateResource.cache
+E:\C++ Projects 2021\Moodle\Moodle\Debug\Moodle.vcxproj.CopyComplete
+C:\Users\Lungelo\Desktop\Moodle\Moodle\Debug\Moodle.vcxproj.AssemblyReference.cache
+C:\Users\Lungelo\Desktop\Moodle\Moodle\Debug\Moodle.Moodle.resources
+C:\Users\Lungelo\Desktop\Moodle\Moodle\Debug\Moodle.vcxproj.GenerateResource.cache
